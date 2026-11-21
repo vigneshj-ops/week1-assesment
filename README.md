@@ -1,6 +1,7 @@
 # Week 1 Assessment
 
 Task 4 - Git, Terminal and Notebook Analysis
+
 ## Employee Analysis Findings
 
 1. The dataset contains 8 employees.
@@ -10,4 +11,4 @@ Task 4 - Git, Terminal and Notebook Analysis
 5. The employee salary data contains no missing values.
 ## Project Status
 
-Project status: Completed on feature branch.
+Project status: Completed successfully after merging main and feature branches.
