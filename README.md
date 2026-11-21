@@ -8,3 +8,6 @@ Task 4 - Git, Terminal and Notebook Analysis
 3. The highest employee salary is ₹90,000.
 4. The lowest employee salary is ₹30,000.
 5. The employee salary data contains no missing values.
+## Project Status
+
+Project status: Completed on feature branch.
